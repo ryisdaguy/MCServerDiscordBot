@@ -2,7 +2,7 @@
 module.exports.token = 'XsNv9Q.ZJ1T_HETUisHSjtO7CFLlRlgk2g';
 
 //Minecraft Server Ip  //replace with hosted MC Server IP
-module.exports.serverIP = 'VictorsMCServer.evils.in';
+module.exports.serverIP = 'piggysmp.servegame.com';
 
 //Path to directory of active Minecraft Servers //Replace dir. with path to MC Servers (default is made in file) source file MINECRAFT_SERVERS
 module.exports.path = 'C:/Users/Victor/Desktop/Discord_Server/MINECRAFT_SERVERS';
